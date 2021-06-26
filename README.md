@@ -1,4 +1,4 @@
-[![Header](https://github.com/atizay/atizay/blob/main/assets/bg.jpg)](https://arturosipov.com/)
+<!-- [![Header](https://github.com/atizay/atizay/blob/main/assets/bg.jpg)](https://arturosipov.com/) -->
 
 ## I'm a Frontend Developer and UI/UX Designer
 
